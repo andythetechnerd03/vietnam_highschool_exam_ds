@@ -51,3 +51,13 @@ Then just run the notebook.
 ## Blog
 
 The full blog can be found [here](https://medium.com/@dinhngocan102003/vietnamese-high-school-exam-reveals-dark-truth-about-its-education-system-0b9f751e443f)
+
+## Acknowledgements
+- Data Source: [Scores Dataset](https://github.com/anhdung98/diem_thi_2024/releases/download/240717/diem_thi_thpt_2024.csv) and [GeoJSON Dataset](https://github.com/ThongVM003/Datascrap/blob/master/diaphantinhenglish.geojson)
+- Acknowledgements: [Data Crawled from API Endpoint](https://api.viettimes.vn/api/diem-thi)
+
+- License: [MIT](https://opensource.org/licenses/MIT)
+
+## Author
+- Name: Dinh Ngoc An
+- Email: dinhngocan102003@gmail.com
